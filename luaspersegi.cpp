@@ -31,4 +31,5 @@ int main()
     Luaspersegipanjang lmao;
     lmao.input_data();
     lmao.hitung_luas();
+    lmao.output_data();
 }
