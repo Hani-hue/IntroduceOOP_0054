@@ -16,4 +16,8 @@ public:
         cout << "Masukkan lebar =";
         cin >> lebar;
     }
+    void hitung_luas()
+    {
+        luas = panjang * lebar;
+    }
 };
