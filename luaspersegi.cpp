@@ -25,3 +25,8 @@ public:
         cout << "Tampilkan luas =" << luas << endl;
     }
 };
+
+int main()
+{
+    Luaspersegipanjang lmao;
+}
