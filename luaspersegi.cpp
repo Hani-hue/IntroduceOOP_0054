@@ -20,4 +20,8 @@ public:
     {
         luas = panjang * lebar;
     }
+    void output_data()
+    {
+        cout << "Tampilkan luas =" << luas << endl;
+    }
 };
